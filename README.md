@@ -1,5 +1,7 @@
 # Keyslinger
 
-To try it: https://condescending-almeida-f11637.netlify.app/
+Website to practice keyboard touch typing. Made with Vue.
 
-Website to practice keyboard touch typing.
+![Keyslinger demo](demo.png)
+
+To try it: https://condescending-almeida-f11637.netlify.app/
